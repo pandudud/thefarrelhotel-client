@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/room/kamar-standard", {data:[{slug:"kamar-standard",_img:{}}],fetch:{},mutations:[]});
