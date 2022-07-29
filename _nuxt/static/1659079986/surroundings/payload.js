@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/surroundings", {data:[{_img:{}}],fetch:{},mutations:[]});
